@@ -1,0 +1,4 @@
+This is a repository of code I use to interface with various platforms. It's
+generally advantageous to write platform code from scratch, only implementing
+what's required for a given application. This is more of a reference point than
+something to use verbatim in another project.
